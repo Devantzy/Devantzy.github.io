@@ -1,0 +1,32 @@
+.carousel-item img {
+    width: 1200px;
+    height: 650px;
+    object-fit: cover;
+    float: left;
+}
+
+#pp{
+    width: 1300px;
+    height: 680px;
+    margin-top: 55px;
+}
+
+#tulisan{
+    margin-top: 20px;
+
+}
+
+#lebar{
+    margin-left: 70px;
+
+}
+
+#halo{
+    margin-top: 60px;
+
+}
+
+#list{
+    color: rgb(255, 0, 0);
+
+}
